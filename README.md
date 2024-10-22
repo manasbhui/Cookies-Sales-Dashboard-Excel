@@ -46,5 +46,38 @@ It highlights that Chocolate Chip has the highest sales and profit margin, where
 
 Line Chart: This visual represents the monthly sales trends for each cookie type over 2019 and 2020.
 
+![line chart](https://github.com/user-attachments/assets/3e3cfbdd-45f7-4a2f-bd8a-6bd83a9d17fc)
 
 The chart shows fluctuations in sales, with Chocolate Chip consistently being the best-selling product.
+**Sales by City and Cookie Type (How to Grow the Business)**
+Map: The map shows the Total Sales per City.
+
+![map](https://github.com/user-attachments/assets/225f0598-b7f9-4dcb-8a3c-d201db8a5a26)
+
+Green Bay is leading with sales of $14,31,191, followed by Huntington, Mobile, Salt Lake City, and Seattle.
+
+Bar Chart (Performance of Each Cookie per City): This shows the sales performance of each cookie type across different cities.
+
+![bar chart down](https://github.com/user-attachments/assets/d7bb7cc9-2398-4376-813b-00a9ad7a1d3e)
+
+Green Bay and Seattle appear to generate the most revenue across all cookie types, particularly Chocolate Chip.
+**Date Filter**
+The date filter on the right allows users to filter data by specific dates, showing sales trends during selected periods. The date range shown is for March 2020 to April 2020, but it can be adjusted to look at other time frames.
+
+![date](https://github.com/user-attachments/assets/45cbf890-fd9b-4224-aac9-360b32bb5ecd)
+
+
+**DASHBOARD**
+
+![Dashboard](https://github.com/user-attachments/assets/89450f66-a6c6-40b8-9d2d-a957b7afa92a)
+
+**Recommendations**
+1. Chocolate Chip Cookie is the top-selling product with the highest profit margin. It is recommended to implement strategies, such as discounts and promotions, to further boost Chocolate Chip Cookie sales across all cities.
+
+2. Fortune Cookies account for less than 4% of total sales and contribute under 3% to the total profit. It is advised to remove Fortune Cookies from the menu.
+
+3. Sales tend to decline for all products in February, May, August, and November. Introducing promotional campaigns during the middle of each quarter could help drive sales during these low periods.
+
+4. Green Bay in Wisconsin contributes 31% of total sales. Opening a new branch in Green Bay is recommended to capitalize on this strong performance.
+
+5. Initially, the new branch should focus on selling Chocolate Chip, Oatmeal Raisin, and White Chocolate Macadamia Nut Cookies to streamline operations and focus on the best-performing products.
